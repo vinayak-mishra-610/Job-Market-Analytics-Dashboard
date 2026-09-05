@@ -52,8 +52,8 @@ Hourly salaries were converted into an **annualized equivalent using 2,080 worki
 
 ## 📸 Dashboard Preview
 
-![Job Market Analytics Dashboard](images\s2.png)
-![Job Market Analytics Dashboard /w changed parameters](images\s1.png)
+![Job Market Analytics Dashboard](images/s2.png)
+![Job Market Analytics Dashboard /w changed parameters](images/s1.png)
 
 ## 📂 Project Files
 
@@ -64,5 +64,5 @@ Job-Market-Analytics-Dashboard/
 ├── README.md
 └── images/
     └── s1.png,s2.png
-    
+
     
